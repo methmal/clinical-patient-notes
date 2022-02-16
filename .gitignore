@@ -1,3 +1,6 @@
 *.csv
 *.pyc
 *.pth
+*.json
+*.txt
+*.model
