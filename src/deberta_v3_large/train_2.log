@@ -1,0 +1,87 @@
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 0.0206  avg_val_loss: 0.0145  time: 995s
+Epoch 1 - Score: 0.8564
+Epoch 1 - Save Best Score: 0.8564 Model
+Epoch 2 - avg_train_loss: 0.0105  avg_val_loss: 0.0144  time: 994s
+Epoch 2 - Score: 0.8786
+Epoch 2 - Save Best Score: 0.8786 Model
+Epoch 3 - avg_train_loss: 0.0093  avg_val_loss: 0.0149  time: 992s
+Epoch 3 - Score: 0.8798
+Epoch 3 - Save Best Score: 0.8798 Model
+Epoch 4 - avg_train_loss: 0.0068  avg_val_loss: 0.0178  time: 984s
+Epoch 4 - Score: 0.8806
+Epoch 4 - Save Best Score: 0.8806 Model
+Epoch 5 - avg_train_loss: 0.0056  avg_val_loss: 0.0186  time: 979s
+Epoch 5 - Score: 0.8820
+Epoch 5 - Save Best Score: 0.8820 Model
+========== fold: 0 result ==========
+Score: 0.8820
+========== fold: 1 training ==========
+Epoch 1 - avg_train_loss: 0.0204  avg_val_loss: 0.0140  time: 973s
+Epoch 1 - Score: 0.8634
+Epoch 1 - Save Best Score: 0.8634 Model
+Epoch 2 - avg_train_loss: 0.0100  avg_val_loss: 0.0145  time: 983s
+Epoch 2 - Score: 0.8766
+Epoch 2 - Save Best Score: 0.8766 Model
+Epoch 3 - avg_train_loss: 0.0085  avg_val_loss: 0.0159  time: 989s
+Epoch 3 - Score: 0.8785
+Epoch 3 - Save Best Score: 0.8785 Model
+Epoch 4 - avg_train_loss: 0.0069  avg_val_loss: 0.0194  time: 973s
+Epoch 4 - Score: 0.8781
+Epoch 5 - avg_train_loss: 0.0056  avg_val_loss: 0.0197  time: 973s
+Epoch 5 - Score: 0.8789
+Epoch 5 - Save Best Score: 0.8789 Model
+========== fold: 1 result ==========
+Score: 0.8789
+========== fold: 2 training ==========
+Epoch 1 - avg_train_loss: 0.0208  avg_val_loss: 0.0132  time: 975s
+Epoch 1 - Score: 0.8570
+Epoch 1 - Save Best Score: 0.8570 Model
+Epoch 2 - avg_train_loss: 0.0100  avg_val_loss: 0.0157  time: 976s
+Epoch 2 - Score: 0.8772
+Epoch 2 - Save Best Score: 0.8772 Model
+Epoch 3 - avg_train_loss: 0.0086  avg_val_loss: 0.0171  time: 979s
+Epoch 3 - Score: 0.8802
+Epoch 3 - Save Best Score: 0.8802 Model
+Epoch 4 - avg_train_loss: 0.0069  avg_val_loss: 0.0176  time: 986s
+Epoch 4 - Score: 0.8779
+Epoch 5 - avg_train_loss: 0.0055  avg_val_loss: 0.0196  time: 977s
+Epoch 5 - Score: 0.8792
+========== fold: 2 result ==========
+Score: 0.8802
+========== fold: 3 training ==========
+Epoch 1 - avg_train_loss: 0.0207  avg_val_loss: 0.0140  time: 978s
+Epoch 1 - Score: 0.8668
+Epoch 1 - Save Best Score: 0.8668 Model
+Epoch 2 - avg_train_loss: 0.0104  avg_val_loss: 0.0170  time: 984s
+Epoch 2 - Score: 0.8697
+Epoch 2 - Save Best Score: 0.8697 Model
+Epoch 3 - avg_train_loss: 0.0085  avg_val_loss: 0.0164  time: 993s
+Epoch 3 - Score: 0.8762
+Epoch 3 - Save Best Score: 0.8762 Model
+Epoch 4 - avg_train_loss: 0.0067  avg_val_loss: 0.0206  time: 986s
+Epoch 4 - Score: 0.8795
+Epoch 4 - Save Best Score: 0.8795 Model
+Epoch 5 - avg_train_loss: 0.0054  avg_val_loss: 0.0210  time: 985s
+Epoch 5 - Score: 0.8787
+========== fold: 3 result ==========
+Score: 0.8795
+========== fold: 4 training ==========
+Epoch 1 - avg_train_loss: 0.0208  avg_val_loss: 0.0143  time: 980s
+Epoch 1 - Score: 0.8628
+Epoch 1 - Save Best Score: 0.8628 Model
+Epoch 2 - avg_train_loss: 0.0102  avg_val_loss: 0.0133  time: 992s
+Epoch 2 - Score: 0.8802
+Epoch 2 - Save Best Score: 0.8802 Model
+Epoch 3 - avg_train_loss: 0.0089  avg_val_loss: 0.0136  time: 989s
+Epoch 3 - Score: 0.8771
+Epoch 4 - avg_train_loss: 0.0068  avg_val_loss: 0.0164  time: 979s
+Epoch 4 - Score: 0.8833
+Epoch 4 - Save Best Score: 0.8833 Model
+Epoch 5 - avg_train_loss: 0.0052  avg_val_loss: 0.0189  time: 986s
+Epoch 5 - Score: 0.8844
+Epoch 5 - Save Best Score: 0.8844 Model
+========== fold: 4 result ==========
+Score: 0.8844
+========== CV ==========
+Score: 0.8810
